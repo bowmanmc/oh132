@@ -1,26 +1,5 @@
 # oh132
 
-## Project setup
-```
-npm install
-```
+# Ohio Statehouse Image
+https://commons.wikimedia.org/wiki/File:Ohio_Statehouse_3.jpg
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
